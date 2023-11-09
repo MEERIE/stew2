@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Calculator 
+title: Calculator
 description: Grab of the Calculator from APCSA repo.
 type: hacks
 courses: { compsci: {week: 2} }
