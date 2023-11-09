@@ -2,8 +2,8 @@
 toc: true
 comments: false
 layout: post
-title: Sample of Detail Plan
-description: Example Plan!!! Analyze hacks and plan.
+title: Week 1 Plan 
+description: My plan for week 1 of school
 type: plans
 courses: { compsci: {week: 1} }
 ---
